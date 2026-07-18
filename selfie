@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>自拍</title>
+</head>
+<body>
+    <img src="./2241c45c4444aa1bc4e963a807c6bd27.jpg" alt="这是我的自拍" width="288" height="384">
+    <!-- . 表示当前目录.. 表示上一级目录 / 表示进入某个文件夹里 ，在/前输入文件名-->
+     <img src="./c2a1a5470f0efb56a65c1a2f9bbc98fa.jpg" title="这是我的自拍" width="288" height="384">
+</body>
+</html>
